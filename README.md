@@ -1,2 +1,2 @@
 # eco-eng
-Phython package for Ecological Engineering
+Python package for Ecological Engineering
